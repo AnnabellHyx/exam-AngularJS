@@ -1,0 +1,64 @@
+[{
+  "id":1,
+  "title":"HTML",
+  "department":{
+    "id":1,
+    "name":"WebUI"
+  }
+},{
+  "id":2,
+  "title":"CSS",
+  "department":{
+    "id":1,
+    "name":"WebUI"
+  }
+},{
+  "id":3,
+  "title":"angularJS",
+  "department":{
+    "id":1,
+    "name":"WebUI"
+  }
+},{
+  "id":4,
+  "title":"jQuery",
+  "department":{
+    "id":1,
+    "name":"WebUI"
+  }
+},{
+  "id":5,
+  "title":"java",
+  "department":{
+    "id":2,
+    "name":"javaEE"
+  }
+},{
+  "id":6,
+  "title":"javaee",
+  "department":{
+    "id":2,
+    "name":"javaEE"
+  }
+},{
+  "id":7,
+  "title":"object",
+  "department":{
+    "id":2,
+    "name":"javaEE"
+  }
+},{
+  "id":8,
+  "title":"js",
+  "department":{
+    "id":3,
+    "name":"php"
+  }
+},{
+  "id":9,
+  "title":"Sql",
+  "department":{
+    "id":3,
+    "name":"php"
+  }
+}]
